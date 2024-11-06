@@ -1,2 +1,2 @@
 # Star-field
-Stars o a gradient background
+Stars on a gradient background
